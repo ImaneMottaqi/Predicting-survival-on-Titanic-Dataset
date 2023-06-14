@@ -1,1 +1,3 @@
 # Predicting-survival-on-Titanic-Dataset
+In this code, we will use Machine Learning tools to predict classes on Titanic Dataset.
+Including: LR, KNN, Adaboost.....
